@@ -1,6 +1,6 @@
 # Blind-image-analysis
 A simple package to blind images and quantify signal intensities
-By Stephen Zhang
+by Stephen Zhang
 
 To blind images: run batchblind and select any image in the the folder. The blinded images will be in a "Blinded" subfolder with key stored in a .mat file.
 
